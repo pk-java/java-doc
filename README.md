@@ -4,3 +4,4 @@
 2. [String](string/string.md)
 3. [Miscellaneous](misc/misc.md)
 4. [Loop](loop/loop.md)
+5. [Command Line Interface](cli/cli.md)
